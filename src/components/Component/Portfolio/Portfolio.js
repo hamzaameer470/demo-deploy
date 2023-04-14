@@ -25,7 +25,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="PowerX App" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://gymx-moosa-5b4cd7.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/GymX"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/GymX"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
 
@@ -40,7 +40,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="WolfStreet" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://moosa-wolf-street.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/WolfStreet"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/WolfStreet"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="Owls | Social App" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://owls-social-app.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/FacebookCloneReact"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/FacebookCloneReact"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
                         </motion.div>
@@ -70,7 +70,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="Sunny Side" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://moosa-sunny-side.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/sunny-side"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/sunny-side"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
 
@@ -88,7 +88,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="Loop Studio" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://moosa-loop-studio.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/loopsStudio"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/loopsStudio"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
 
@@ -103,7 +103,7 @@ const Portfolio = () => {
                                 <div class="card-bio">
                                     <FacebookShareButton quote="Room | Furniture" hashtag={"#webdevelopment"} url={"https://www.facebook.com/"}><span><GrFacebookOption className='icon' /></span></FacebookShareButton>
                                     <a target={'_blank'} href="https://moosa-wolf-street.netlify.app/"><span><BiLink className='icon' /></span></a>
-                                    <a target={'_blank'} href="https://github.com/MoosaRaza2/WolfStreet"><span><FaGithubAlt className='icon' /></span></a>
+                                    <a target={'_blank'} href="https://github.com/hamzaameer470/WolfStreet"><span><FaGithubAlt className='icon' /></span></a>
                                 </div>
                             </div>
 
